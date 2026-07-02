@@ -1,0 +1,24 @@
+Origin: 00fh
+Label: 00fh
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: jailbreak repository
+Date: Thu, 02 Jul 2026 22:51:05 UTC
+
+MD5Sum:
+ 2931ecdd8085a702951f10186e11c859 5679 Packages
+ 2398a5ca028bceb55bb29a3b5578951f 1725 Packages.gz
+ 95be6a764a88f81cf25cc17aa9ef4644 1767 Packages.zst
+ f1b481317ea2b70dfea1f27f101bf858 1935 Packages.bz2
+ 36517b89d92c3872aae7491f103ae915 1744 Packages.xz
+
+SHA256:
+ 7c33a692af35fb2776184be36b409e90a54dd6a0b69bdd23fe6701e1d2b9ee3c 5679 Packages
+ 56b60bdf5e53a4dafbf25969c11b2465b745abac4a27a0f65cf6780b61e0c688 1725 Packages.gz
+ 97235920a29e76e481656498ee85c1001f6f5d2d5e7dba7c551cb8f6b80eb059 1767 Packages.zst
+ 097e00ac711ed5864e8019003562a7cdaad7533be99a96e910dd20de1cc61b92 1935 Packages.bz2
+ 9692cd14e85a5fae44fdf85e0023208e92296f23a2bdb94beabcc79683d174d5 1744 Packages.xz
+
