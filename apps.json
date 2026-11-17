@@ -1,0 +1,13 @@
+{
+  "apps" : [
+
+  ],
+  "description" : "مصدر متوافق مع AltStore و LiveContainer",
+  "identifier" : "com.00fh.00fh",
+  "name" : "00fh Source",
+  "news" : [
+
+  ],
+  "subtitle" : "مصدر تطبيقات مدار بواسطة SideSource",
+  "website" : "https://github.com/00fh/00fh"
+}
